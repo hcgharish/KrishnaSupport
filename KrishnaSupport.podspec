@@ -19,4 +19,4 @@ s.source             = { :git => "https://github.com/hcgharish/KrishnaSupport.gi
 s.source_files       = "KrishnaSupport", "KrishnaSupport/**/*.{h,m,swift}"
 end
 
-# cd /Users/apple/KrishnaSupport/KrishnaSupport && git add -A && git commit -m 'upload' && git push -u origin master && git tag 1.0.1 && git push tag
+# cd /Users/apple/KrishnaSupport/KrishnaSupport && git add -A && git commit -m 'upload' && git push -u origin master && git tag 1.0.2 && git push tag
